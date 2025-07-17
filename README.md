@@ -6,11 +6,7 @@ Este é meu site-portfolio, onde apresento meus projetos, experiência e contato
 
 ---
 
-## 🔗 Visite o site ao vivo
 
-Acesse aqui: **https://SEU_USUÁRIO.netlify.app** *(ou o link da hospedagem que escolher)*
-
----
 
 
 ## ⚙️ Tecnologias usadas
